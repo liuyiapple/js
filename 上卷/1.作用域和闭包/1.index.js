@@ -8,7 +8,7 @@
  *
  *  RHS 查询 可以理解成寻找当前变量的值是否存在或者去取当前变量的值 console.log(a)
  */
-
+import Day from "./Day";
 function foo(a) {
   // a = 2 LHS
 
